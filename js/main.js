@@ -1,0 +1,16 @@
+let name = 'Jeden';
+let number = '1';
+console.log(name);
+console.log(number);
+let name2 = 'Dwa';
+let number2 = '2';
+console.log(name2);
+console.log(number2);
+let name3 = 'Trzy';
+let number3 = '3';
+console.log(name3);
+console.log(number3);
+let name4 = 'Cyfry';
+let array = [1, 2, 3];
+console.log(name4);
+console.log(array);
