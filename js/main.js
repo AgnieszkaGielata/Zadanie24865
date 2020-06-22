@@ -11,6 +11,6 @@ let three = 3;
 console.log(name3);
 console.log(three);
 let name4 = 'tab';
-let tab = [1, 2, 3];
+let tab = [one, two, three];
 console.log(name4);
 console.log(tab);
